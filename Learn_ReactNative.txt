@@ -21,3 +21,6 @@ Learning React Natvie following these step.
 
 * Make Sample Apps
 - show me the coin
+
+These steps were referred to this site
+: https://jeffgukang.github.io/react-native-tutorial
