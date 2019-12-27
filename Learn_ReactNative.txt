@@ -1,0 +1,23 @@
+This repository is for learning React Native 
+
+Learning React Natvie following these step.
+
+* Basic
+- basic function
+- advanced todolist app
+- make todolist apps
+
+* Debugging
+- official documents
+
+* React Navigation
+- react navigation stack
+- react navigagion tab
+- react navigagion drawer
+
+* State Management Tutorial
+- mobx tutorial
+- redux tutorial
+
+* Make Sample Apps
+- show me the coin
