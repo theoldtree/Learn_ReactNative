@@ -1,6 +1,6 @@
 This repository is for learning React Native 
 
-Learning React Natvie following these step.
+Learning React Natvie following these steps.
 
 * Basic
 - basic function
