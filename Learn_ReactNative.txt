@@ -3,24 +3,24 @@ This repository is for learning React Native
 Learning React Natvie following these steps.
 
 * Basic
-- basic function
-- advanced todolist app
-- make todolist apps
+- basic function (1day)
+- advanced todolist app (1day)
+- make todolist apps (2day)
 
 * Debugging
-- official documents
+- official documents (3day)
 
 * React Navigation
-- react navigation stack
-- react navigagion tab
-- react navigagion drawer
+- react navigation stack (2day)
+- react navigagion tab (1day)
+- react navigagion drawer (1day)
 
 * State Management Tutorial
-- mobx tutorial
-- redux tutorial
+- mobx tutorial (2day)
+- redux tutorial (1day)
 
 * Make Sample Apps
-- show me the coin
+- show me the coin (4day)
 
 These steps were referred to this site
 : https://jeffgukang.github.io/react-native-tutorial
