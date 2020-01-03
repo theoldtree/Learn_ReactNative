@@ -23,4 +23,4 @@ Learning React Natvie following these steps.
 - show me the coin (4day)
 
 These steps were referred to this site
-: https://jeffgukang.github.io/react-native-tutorial
+: https://jeffgukang.github.io/react-native-tutorial/
